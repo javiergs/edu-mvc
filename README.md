@@ -95,7 +95,3 @@ The code is intentionally compact. Before treating it as a production-ready appl
 6. **Testing and packaging:** no automated tests or named Java packages are included.
 
 These are useful starting points for exercises on Java concurrency, GUI event dispatch, and software design.
-
-## License
-
-No license file is currently included. Consult the repository owner before reusing or redistributing the source.
